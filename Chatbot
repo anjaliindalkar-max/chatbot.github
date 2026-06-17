@@ -204,7 +204,7 @@ entry.pack(pady=8)
 # Enter Key Support
 entry.bind("<Return>", lambda event: send_message())
 
-# -----------------------------
+#-----------------------------
 # Send Button
 # -----------------------------
 send_btn = tk.Button(
